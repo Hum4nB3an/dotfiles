@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stridd12@gmail.com
+	name = Astrid Farla
